@@ -38,40 +38,6 @@
 │       ├── 📁register  
 ```
 
-## 브랜치
-master
-
-develop
-
-fix/milestone-list-be
-
-feature/issue-detail-be
-
-feature/issue-layout-buttons
-
-feature/create-issue-fe
-
-refactor/errorHandling-be
-
-feature/issue-detail-fe
-
-feature/issue-create-be
-
-feature/milestone-list-be
-
-feature/label-list-be
-
-feature/issue-layout
-
-feature/react-router-fe
-
-feature/issue-list-lookup-be
-
-feature/github-login-be
-
-feature/login-fe
-
-
 ## 📑 개발 문서
 
 ### [Backlog](https://docs.google.com/spreadsheets/d/1JoNtBpVZUKCupKhUhpHzfvt8pS_82fO8/edit#gid=1936612954)
